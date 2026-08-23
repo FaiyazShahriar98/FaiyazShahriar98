@@ -82,37 +82,37 @@ I'm Faiyaz — a full-stack developer from **Sylhet, Bangladesh**, with a B.Sc. 
 | 🎮 Unity Essentials Pathway | *Unity Learn, Game Development, 2026* |
 
 
-      <br/>
+  <br/>
 
-      ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Stats
+  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28"/> GitHub Stats
 
-      <div align="center">
+  <div align="center">
 
-      <img src="https://github-readme-stats.vercel.app/api?username=faiyazshahriar98&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=d400ff&text_color=c9d1d9" height="165"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyazshahriar98&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faiyazshahriar98&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=d400ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faiyazshahriar98&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9" height="165"/>
 
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiyazshahriar98&theme=react&hide_border=true&background=0d1117&ring=00e5ff&fire=d400ff&currStreakLabel=00e5ff" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=faiyazshahriar98&theme=react&hide_border=true&background=0d1117&ring=00e5ff&fire=d400ff&currStreakLabel=00e5ff" height="165"/>
 
-      </div>
+  </div>
 
-      <br/>
+  <br/>
 
-      ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28"/> Experience & Education
+  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28"/> Experience & Education
 
-      <ul>
-      <li><b>Freelance Full-Stack Developer</b> · Independent · 2023 – Present</li>
-      <li><b>Junior Support Engineer</b> · Authlab, Sylhet · Sept – Nov 2024</li>
-      <li><b>B.Sc. Computer Science & Engineering</b> · NorthSouth University · 2019 – 2024</li>
-      </ul>
+  <ul>
+  <li><b>Freelance Full-Stack Developer</b> · Independent · 2023 – Present</li>
+  <li><b>Junior Support Engineer</b> · Authlab, Sylhet · Sept – Nov 2024</li>
+  <li><b>B.Sc. Computer Science & Engineering</b> · NorthSouth University · 2019 – 2024</li>
+  </ul>
 
-      <br/>
+  <br/>
 
-      <div align="center">
+  <div align="center">
 
-      ### Let's build something great.
+  ### Let's build something great.
 
-      📧 faiyazshahriar10@gmail.com &nbsp;·&nbsp; 📞 +880 1859 792 833
+  📧 faiyazshahriar10@gmail.com &nbsp;·&nbsp; 📞 +880 1859 792 833
 
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:d400ff&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:d400ff&height=100&section=footer" width="100%"/>
 
-      </div>
+  </div>
