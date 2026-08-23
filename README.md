@@ -79,7 +79,7 @@ I'm Faiyaz — a full-stack developer from **Sylhet, Bangladesh**, with a B.Sc. 
 | 💻 The Complete Web Developer Bootcamp | *Udemy, 2023* |
 | 🌐 Web Development Bootcamp | *Coursera, 2024* |
 | 🎨 Framer Masterclass | *Flux Academy, 2024* |
-| 🎮 Unity Essentials Pathway | *Unity Learn, Game Development, 2026*
+| 🎮 Unity Essentials Pathway | *Unity Learn, Game Development, 2026* |
 
 
       <br/>
@@ -116,7 +116,3 @@ I'm Faiyaz — a full-stack developer from **Sylhet, Bangladesh**, with a B.Sc. 
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:d400ff&height=100&section=footer" width="100%"/>
 
       </div>
-      
-  </tr>
-</li></li>
-</ul>
