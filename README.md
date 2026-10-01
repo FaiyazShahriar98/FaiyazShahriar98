@@ -5,7 +5,7 @@
 <a href="https://myportfolio-opal-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-myportfolio--opal--theta.vercel.app-00e5ff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/faiyazshahriar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 <a href="mailto:faiyazshahriar10@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D400FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-<a href="https://youtube.com/@faiyazshahriar"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" /></a>
+<a href="https://youtube.com/@deathtrigger6969"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" /></a>
 
 </div>
 
